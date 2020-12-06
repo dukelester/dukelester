@@ -1,4 +1,4 @@
-### Hi there 👋
+This is MPESA STK push code wich will allow you to integrate mpesa stk push onto your website to automate payments.
 
 <!--
 **dukelester/dukelester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
